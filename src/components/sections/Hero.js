@@ -85,7 +85,7 @@ const Hero = ({
                     tag="a"
                     color="dark"
                     wideMobile
-                    href="https://github.com/TREP-LABS"
+                    href="https://github.com/Harphies/1doctor.ai"
                   >
                     View on Github
                   </Button>
