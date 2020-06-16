@@ -77,7 +77,7 @@ const Hero = ({
                     tag="a"
                     color="primary"
                     wideMobile
-                    href="https://cruip.com/"
+                    href="http://www.1doctor.ai/"
                   >
                     Get started
                   </Button>
