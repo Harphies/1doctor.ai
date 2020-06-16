@@ -45,7 +45,7 @@ const FeaturesTiles = ({
   const sectionHeader = {
     title: "The future we Imagine",
     paragraph:
-      "We imagine a future where people have access to quick and reliable diagnosis with personalized medical treatment through fast and reliable connectivity and Intelligent applications that know individual through thier unique genomic data.",
+      "We imagine a future where people have access to quick and reliable diagnosis with personalized medical treatment through fast and reliable connectivity and Intelligent applications that know individual through their unique genomic data.",
   };
 
   return (
@@ -123,9 +123,9 @@ const FeaturesTiles = ({
                     Computer Vison for medical diagnosis
                   </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit
-                    esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
-                    occaecat cupidatat.
+                    There's no waiting for hours for a diagnosis: an AI
+                    diagnostic system to assist doctors in diagnosing all kinds
+                    of diseases.
                   </p>
                 </div>
               </div>
