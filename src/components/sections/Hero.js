@@ -60,15 +60,14 @@ const Hero = ({
               className="mt-0 mb-16 reveal-from-bottom"
               data-reveal-delay="200"
             >
-              Landing page for{" "}
-              <span className="text-color-primary">1doctor.ai</span>
+              Welcome to <span className="text-color-primary">1doctor.ai</span>
             </h1>
             <div className="container-xs">
               <p
                 className="m-0 mb-32 reveal-from-bottom"
                 data-reveal-delay="400"
               >
-                We are building the largest and Robust Open IoT and Machine
+                Here, we are building the largest and Robust IoT and Machine
                 Learning API for Medical Applications:Advancing the AI for
                 Health Initiative.
               </p>
