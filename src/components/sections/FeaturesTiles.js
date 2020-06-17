@@ -43,7 +43,7 @@ const FeaturesTiles = ({
   );
 
   const sectionHeader = {
-    title: "The future of medicine",
+    title: "Precision medicine",
     paragraph:
       "A future where people have access to quick and reliable diagnosis, personalized medical treatment based on their unique genomic data and accurate illness prediction through fast and reliable connectivity and Intelligent applications.",
   };

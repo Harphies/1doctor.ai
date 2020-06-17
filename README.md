@@ -1,10 +1,8 @@
-## Computer-aided disease diagnosis
+## Building explanaible AI models for medical applications.
 
-- All our models are explainable
+### _Anyone— patients, doctor, organization, medical IoT device developer, or researcher— can access in order to make more informed clinical decisions._
 
-## The features
-
-- computer vision for medical diagnosis
+- computer vision for medical diagnosis: Computer-aided disease diagnosis
 
   - Systems for diabetics Retinopathy(Segmentation, Grading and Localization) based on an image of the human eye: A system which based on an image of human eye classifies Diabetic Retinopathy disease using image processing and machine learning methods
     - Morphological image processing methods are used to extract features like exudates and red lesion which characterise the disease.
@@ -13,6 +11,7 @@
     - U-Net architecture for segmentation of lesions, and a ResNet model for disease grading.
   - Scanning medical images for abnormalities.
   - Cancer diagnosis (Breast cancer etc)
+  - Diagnosing heart diseases.
 
 - Medical Images and EHR (X-ray, ultrasound, CT or MRI scan) for diagnosing varieties of diseases.
   - sourcing training and testing data for medical applications
