@@ -67,7 +67,7 @@ const FeaturesTiles = ({
                   </div>
                 </div>
                 <div className="features-tiles-item-content">
-                  <h4 className="mt-0 mb-8">Medical data</h4>
+                  <h4 className="mt-0 mb-8">Medical Images and EHR</h4>
                   <p className="m-0 text-sm">
                     Duis aute irure dolor in reprehenderit in voluptate velit
                     esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
@@ -93,11 +93,10 @@ const FeaturesTiles = ({
                   </div>
                 </div>
                 <div className="features-tiles-item-content">
-                  <h4 className="mt-0 mb-8">Connectivity in Healhcare</h4>
+                  <h4 className="mt-0 mb-8">Drug Discovery</h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit
-                    esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
-                    occaecat cupidatat.
+                    Drug candiate scanning for immidiate treatment for any
+                    unforseen outbreaks or new diseases.
                   </p>
                 </div>
               </div>
@@ -176,9 +175,10 @@ const FeaturesTiles = ({
                     Natural Language Processing for Conversational Diagnosis
                   </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit
-                    esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
-                    occaecat cupidatat.
+                    We enable conversational diagnosis with all the major
+                    languages in the world. And also extract meaninful
+                    information from historical EHR for better healthcare for
+                    all.
                   </p>
                 </div>
               </div>
@@ -200,13 +200,10 @@ const FeaturesTiles = ({
                   </div>
                 </div>
                 <div className="features-tiles-item-content">
-                  <h4 className="mt-0 mb-8">
-                    Federated Machine Learning and patient data security
-                  </h4>
+                  <h4 className="mt-0 mb-8">illness prediction</h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit
-                    esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
-                    occaecat cupidatat.
+                    We look into patients medical history and give an accurate
+                    and precise illness prediction.
                   </p>
                 </div>
               </div>
