@@ -178,9 +178,10 @@ const FeaturesTiles = ({
                   </h4>
                   <p className="m-0 text-sm">
                     We enable conversational diagnosis with all the major
-                    languages in the world. And also extract meaninful
-                    information from historical EHR for better healthcare for
-                    all.
+                    languages in the world.Unlocking unstructured data in EMR,
+                    databases by abstracting relevant values and making this
+                    information available for decision support along with
+                    analytics.
                   </p>
                 </div>
               </div>
