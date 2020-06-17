@@ -43,9 +43,9 @@ const FeaturesTiles = ({
   );
 
   const sectionHeader = {
-    title: "The future we Imagine",
+    title: "The future of medicine",
     paragraph:
-      "We imagine a future where people have access to quick and reliable diagnosis with personalized medical treatment through fast and reliable connectivity and Intelligent applications that know individual through their unique genomic data.",
+      "We imagine a future where people have access to quick and reliable diagnosis, personalized medical treatment based on thier unique genomic data and accurate illness prediction through fast and reliable connectivity and Intelligent applications.",
   };
 
   return (
