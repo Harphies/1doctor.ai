@@ -14,8 +14,8 @@
   - Scanning medical images for abnormalities.
   - Cancer diagnosis (Breast cancer etc)
 
-- Medical Images (X-ray, ultrasound, CT or MRI scan) for diagnosing varieties of diseases.
+- Medical Images and EHR (X-ray, ultrasound, CT or MRI scan) for diagnosing varieties of diseases.
   - sourcing training and testing data for medical applications
-- Recommendation system for personalized treatments
+- Recommendation systems for personalized treatments
   - Using Artificial Intelligence to make dental treatments more efficient, affordable and personalized.
   - Precise cancer diagnosis and personalized treatment decisions.

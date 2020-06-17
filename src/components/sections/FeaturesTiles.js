@@ -147,9 +147,11 @@ const FeaturesTiles = ({
                     Recommendation systems for personalized treatments
                   </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit
-                    esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
-                    occaecat cupidatat.
+                    Recommending advanced treatments for a life-threatening
+                    dieases: AI that matches medical records of patients to an
+                    exhaustive database of most cutting edge therapies. Drugs
+                    that your doctor may not have access to. If clue to your
+                    cure lie hidden in your data, we'll find them for you.
                   </p>
                 </div>
               </div>
