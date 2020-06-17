@@ -60,7 +60,7 @@ const Hero = ({
               className="mt-0 mb-16 reveal-from-bottom"
               data-reveal-delay="200"
             >
-              Predict, detect and monitor dieases.{" "}
+              Predict, detect and monitor diseases.{" "}
               <span className="text-color-primary">1doctor.ai</span>
             </h1>
             <div className="container-xs">
