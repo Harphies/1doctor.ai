@@ -12,6 +12,10 @@
     - A Django/flask WebApp for demo
     - U-Net architecture for segmentation of lesions, and a ResNet model for disease grading.
   - Scanning medical images for abnormalities.
+  - Cancer diagnosis (Breast cancer etc)
 
 - Medical Images (X-ray, ultrasound, CT or MRI scan) for diagnosing varieties of diseases.
   - sourcing training and testing data for medical applications
+- Recommendation system for personalized treatments
+  - Using Artificial Intelligence to make dental treatments more efficient, affordable and personalized.
+  - Precise cancer diagnosis and personalized treatment decisions.

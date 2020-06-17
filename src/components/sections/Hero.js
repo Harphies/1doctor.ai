@@ -60,8 +60,8 @@ const Hero = ({
               className="mt-0 mb-16 reveal-from-bottom"
               data-reveal-delay="200"
             >
-              Your future Doctor May Not be Human. This is the rise of AI in
-              Medicine. <span className="text-color-primary">1doctor.ai</span>
+              Predict, detect and monitor dieases.{" "}
+              <span className="text-color-primary">1doctor.ai</span>
             </h1>
             <div className="container-xs">
               <p
